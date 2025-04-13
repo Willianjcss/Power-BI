@@ -10,31 +10,31 @@ Este repositório reúne diversos projetos criados no **Power BI Desktop**, todo
 - 📥 [`Projeto1.pbix`](./ProjetosPowerBi/Projeto1.pbix)
 - 🖼️ Visualização rápida:
 
-![Projeto1](./Projeto1.png)
+![Projeto1](./ProjetosPowerBi/Projeto1.png)
 
 ---
 
 ### 🔹 Projeto 2
-- 📥 [`Projeto2.pbix`](./Projeto2.pbix)
+- 📥 [`Projeto2.pbix`](./ProjetosPowerBi/Projeto2.pbix)
 - 🖼️ Visualização rápida:
 
-![Projeto2](./Projeto2.png)
+![Projeto2](./ProjetosPowerBi/Projeto2.png)
 
 ---
 
 ### 🔹 Projeto 3
-- 📥 [`Projeto3.pbix`](./Projeto3.pbix)
+- 📥 [`Projeto3.pbix`](./ProjetosPowerBi/Projeto3.pbix)
 - 🖼️ Visualização rápida:
 
-![Projeto3](./Projeto3.png)
+![Projeto3](./ProjetosPowerBi/Projeto3.png)
 
 ---
 
 ### 🔹 Projeto 4
-- 📥 [`Projeto4.pbix`](./Projeto4.pbix)
+- 📥 [`Projeto4.pbix`](./ProjetosPowerBi/Projeto4.pbix)
 - 🖼️ Visualização rápida:
 
-![Projeto4](./Projeto4.png)
+![Projeto4](./ProjetosPowerBi/Projeto4.png)
 
 ---
 
